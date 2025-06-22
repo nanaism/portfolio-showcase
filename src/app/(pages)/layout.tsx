@@ -1,4 +1,5 @@
 import Link from "next/link";
+import "../globals.css";
 
 const GITHUB_URL = "https://github.com/nanaism";
 const HANDLE_NAME = "oga_aiichiro";
