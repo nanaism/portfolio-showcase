@@ -1,15 +1,15 @@
 export const PROJECTS = [
   {
-    // Warikan Culculator
-    repoUrl: "https://github.com/nanaism/warikan-culculator",
-    imageURL:
-      "https://github.com/user-attachments/assets/5b7a3fa2-9c05-4df2-9e53-c5df5872695a",
-  },
-  {
     // AITuber
     repoUrl: "https://github.com/nanaism/aituber",
     imageURL:
       "https://github.com/user-attachments/assets/4bf4d942-6b87-4bde-9a3d-3fe2608a1cf9",
+  },
+  {
+    // Misskey
+    repoUrl: "https://github.com/nanaism/misskey",
+    imageURL:
+      "https://github.com/user-attachments/assets/a0929193-71d6-4e67-a351-a5ef0b3c0639",
   },
   {
     // Asset Management
@@ -22,12 +22,6 @@ export const PROJECTS = [
     repoUrl: "https://github.com/nanaism/realtime-chat",
     imageURL:
       "https://github.com/user-attachments/assets/c5c633d2-989a-4cec-8c26-0e8d43a9564a",
-  },
-  {
-    // Misskey
-    repoUrl: "https://github.com/nanaism/misskey",
-    imageURL:
-      "https://github.com/user-attachments/assets/a0929193-71d6-4e67-a351-a5ef0b3c0639",
   },
   {
     // Knowledge EC
