@@ -5,7 +5,16 @@ type GalleryTopicsProps = {
   handleTopicClick: (topic: string) => void;
 };
 
-const TOPICS = ["All", "javascript", "typescript", "nextjs", "real-world"];
+const TOPICS = [
+  "All",
+  "javascript",
+  "typescript",
+  "nextjs",
+  "react",
+  "shadcn-ui",
+  "tailwindcss",
+  "python",
+];
 
 const GalleryTopics = (props: GalleryTopicsProps) => {
   return (
