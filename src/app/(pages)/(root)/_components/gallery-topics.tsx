@@ -7,25 +7,15 @@ type GalleryTopicsProps = {
 
 const TOPICS = [
   "All",
-  "react",
   "nextjs",
   "typescript",
   "javascript",
-  "vite",
-  "zustand",
-  "shadcn-ui",
-  "tailwindcss",
   "framer-motion",
-  "threejs",
-  "vrm",
   "prisma",
   "supabase",
   "firebase",
-  "clerk",
-  "openai-api",
-  "github-api",
   "vercel",
-  "misskey",
+  "python",
 ];
 
 const GalleryTopics = (props: GalleryTopicsProps) => {
