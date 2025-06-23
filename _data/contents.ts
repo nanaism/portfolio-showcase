@@ -1,15 +1,15 @@
 export const PROJECTS = [
   {
-    // AITuber
-    repoUrl: "https://github.com/nanaism/aituber",
-    imageURL:
-      "https://github.com/user-attachments/assets/4bf4d942-6b87-4bde-9a3d-3fe2608a1cf9",
-  },
-  {
     // Misskey
     repoUrl: "https://github.com/nanaism/misskey",
     imageURL:
       "https://github.com/user-attachments/assets/a0929193-71d6-4e67-a351-a5ef0b3c0639",
+  },
+  {
+    // AITuber
+    repoUrl: "https://github.com/nanaism/aituber",
+    imageURL:
+      "https://github.com/user-attachments/assets/4bf4d942-6b87-4bde-9a3d-3fe2608a1cf9",
   },
   {
     // Asset Management
