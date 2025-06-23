@@ -64,9 +64,15 @@ export const PROJECTS = [
       "https://github.com/user-attachments/assets/7660de07-6fae-438f-b518-bbd84e126cd7",
   },
   {
-    // My Portfolio
+    // AITuber
     repoUrl: "https://github.com/nanaism/aituber",
     imageURL:
       "https://github.com/user-attachments/assets/4bf4d942-6b87-4bde-9a3d-3fe2608a1cf9",
+  },
+  {
+    // Warikan Culculator
+    repoUrl: "https://github.com/nanaism/warikan-culculator",
+    imageURL:
+      "https://github.com/user-attachments/assets/5b7a3fa2-9c05-4df2-9e53-c5df5872695a",
   },
 ];
