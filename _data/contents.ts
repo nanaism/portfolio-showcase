@@ -56,6 +56,8 @@ export const PROJECTS = [
   {
     // Realtime Chat
     repoUrl: "https://github.com/nanaism/realtime-chat",
+    imageURL:
+      "https://github.com/user-attachments/assets/c5c633d2-989a-4cec-8c26-0e8d43a9564a",
   },
   {
     // Asset Management
