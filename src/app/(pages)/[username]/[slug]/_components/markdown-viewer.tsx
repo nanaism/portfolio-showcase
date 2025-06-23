@@ -13,6 +13,7 @@ interface MarkdownViewerProps {
 
 export default async function MarkdownViewer({ repoUrl }: MarkdownViewerProps) {
   const repoData = await fetchRepoData(repoUrl);
+  console.log("Passing to fetchRepoData:", repoUrl); // ← このログを追加して確認
 
   return (
     <Card className="w-full max-w-4xl">
