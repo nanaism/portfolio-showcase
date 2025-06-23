@@ -8,7 +8,7 @@
 **👇 今すぐサイトを体験！**
 ### [https://portfolio.aiichiro.jp/](https://portfolio.aiichiro.jp/)
 
-![大賀万博のスクリーンショット](https://github.com/user-attachments/assets/1d21974b-1fa2-4634-a977-5ae3a6ced67c)
+![image](https://github.com/user-attachments/assets/06222f84-6415-43ad-8a35-7d8eb89bc222)
 
 ---
 
