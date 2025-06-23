@@ -49,7 +49,7 @@ const Layout = (props: Props) => {
             <Link className="text-emerald-600" href={GITHUB_URL}>
               @{HANDLE_NAME}
             </Link>{" "}
-            &copy; 2024
+            &copy; 2025
           </p>
         </footer>
       </div>
