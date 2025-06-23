@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![FireShot Webpage Capture 016 - '大賀万博' - portfolio aiichiro jp](https://github.com/user-attachments/assets/1d21974b-1fa2-4634-a977-5ae3a6ced67c)
 
-## Getting Started
+# ショーケースアプリ
+## 機能
+- コンテンツ一覧を表示:
+- まとめサイトのコンテンツ（リポジトリ）を一覧で表示
+- トピックごとに、フィルタリングできる機能
+- コンテンツ詳細を表示:
+- コンテンツの詳細情報（README.md）を表示
+- GItHub のリポジトリと、デモサイトへのリンク
+- ログイン不要の、コンテンツに対するリアクション機能
+- GitHub のリポジトリの URL 構造に合わせて、「Domain.com/オーナー名/リポジトリ名」という URL に設定する
 
-First, run the development server:
+## ユーザーストーリー
+- TOP ページ：
+-  ユーザーがサイトにアクセスすると、コンテンツ一覧を閲覧できる
+-  トピックのボタンを押すと、一致するコンテンツのみが表示される
+-  個別のコンテンツをクリックして、詳細ページに遷移できる
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+-  コンテンツ詳細ページ:
+-  ユーザーは各コンテンツの詳細情報（README.md）を確認できる
+-  GitHub と同じ、「Domain.com/オーナー名/リポジトリ名」という URL の構造になっている
+-  外部リンクへのボタンをクリックして、GItHub のリポジトリ・デモサイトに遷移できる
+-  コンテンツに対する、リアクションの総数を確認することができる
+-  誰でもログインせずに、コンテンツに対して絵文字でリアクションすることができる
+-  誰でもログインせずに、コンテンツに対するリアクションを削除することができる
+-  「いいね」数の複数インクリメントなどの不正操作は、許容する方針で、済ませること
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- その他：
+- アプリケーションがデプロイされており、誰でもアクセス可能である。
