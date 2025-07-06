@@ -78,9 +78,9 @@ export const PROJECTS = [
       "https://github.com/user-attachments/assets/06222f84-6415-43ad-8a35-7d8eb89bc222",
   },
   {
-    // tts-chat-app
-    repoUrl: "https://github.com/nanaism/tts-chat-app",
+    // Near
+    repoUrl: "https://github.com/nanaism/near",
     imageURL:
-      "https://github.com/user-attachments/assets/6120e80c-2076-4cdb-b65d-b15f5bd9d130",
+      "https://github.com/user-attachments/assets/b85d3c38-91be-4211-b89b-ee25a5e176a1",
   },
 ];
